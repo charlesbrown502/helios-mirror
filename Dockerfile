@@ -1,4 +1,4 @@
-FROM charlesbrown502/mirrorleechbot:heroku
+FROM charlesbrown502/mltb:heroku
 
 WORKDIR /usr/src/app
 RUN chmod 777 /usr/src/app
